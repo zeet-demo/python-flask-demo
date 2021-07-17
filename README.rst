@@ -15,4 +15,4 @@ Base Skeleton to start your application using Flask-AppBuilder
     $ flask run
 
 
-That's it!!
+That's it.
